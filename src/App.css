@@ -1,0 +1,10 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: rgb(85, 83, 83);
+}
