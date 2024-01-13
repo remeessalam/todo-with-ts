@@ -6,5 +6,8 @@
   justify-content: center;
 }
 body {
-  background-color: rgb(85, 83, 83);
+  background-color: rgb(33, 32, 32);
+}
+input:focus {
+  outline: none;
 }
